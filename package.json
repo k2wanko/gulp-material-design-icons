@@ -1,0 +1,37 @@
+{
+  "name": "gulp-material-design-icons",
+  "version": "1.0.1",
+  "description": "material icons setter for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "k2wanko <k2.wanko@gmail.com>",
+  "homepage": "https://github.com/k2wanko/nicoapi",
+  "keywords": [
+    "gulp",
+    "material-design-icons"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "http://k2wanko.mit-license.org/"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "glob-stream": "^5.0.0",
+    "material-design-icons": "^2.0.0",
+    "through2": "^2.0.0",
+    "underscore": "^1.8.3",
+    "vinyl": "^0.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k2wanko/gulp-material-design-icons.git"
+  }
+}
